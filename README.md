@@ -43,7 +43,7 @@ DATABASES = {
         'PORT': '5432',
     }
 }
-
+```
 
 * Go to the folder with `manage.py` file and run migrate files
 ```
